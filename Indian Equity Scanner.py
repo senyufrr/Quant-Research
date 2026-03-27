@@ -1,8 +1,8 @@
 import alpaca_trade_api as tradeapi
 
 # 1. Put your Alpaca keys here (Keep the single quote marks around them!)
-API_KEY = PKLY6ITX3U2C5FA4ZXDOKDFPNA
-SECRET_KEY = HBhqhAT8ZBLz6RMprmWVn4rgsXaSPiJzo6LNuVeens7y
+API_KEY =  -------------------
+SECRET_KEY = -----------------
 
 # 2. Tell the bot to use the Paper Trading (fake money) URL
 BASE_URL = 'https://paper-api.alpaca.markets'
